@@ -1,3 +1,5 @@
 # warp02
-##KONTAKT
+## KONTAKT
 Zespół:Warsztat Programisty
+
+Autor: Mateusz
